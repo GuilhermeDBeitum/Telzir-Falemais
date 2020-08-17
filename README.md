@@ -6,17 +6,17 @@
 npm install vue
 ```
 
-## vuetify
+## Vuetify
 
 ```
-npm add vuetify
+vue add vuetify
 ```
 
-## vue routes
+## Vue routes
 
 
 ```
-npm add routes
+vue add routes
 ```
 
 ## Project setup
