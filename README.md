@@ -1,5 +1,24 @@
 # falemais
 
+## Vue
+
+```
+npm install vue
+```
+
+## vuetify
+
+```
+npm add vuetify
+```
+
+## vue routes
+
+
+```
+npm add routes
+```
+
 ## Project setup
 ```
 npm install
